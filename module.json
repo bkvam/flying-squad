@@ -1,0 +1,67 @@
+{
+    "name": "flying-squad",
+    "title": "The Flying Squad",
+    "author": "blk",
+    "description": "A series of adventures for the Flying Squad Campaign.",
+    "packs": [
+        {
+            "name": "fs-actors",
+            "label": "Flying Squad Actors",
+            "type": "Actor",
+            "system": "dnd5e",
+            "path": "packs/fs-actors.db",
+            "entity": "Actor",
+            "module": "flying-squad"
+        },
+        {
+            "name": "fs-scenes",
+            "label": "Flying Squad Scenes",
+            "type": "Scene",
+            "path": "packs/fs-scenes.db",
+            "entity": "Scene",
+            "module": "flying-squad"
+        },
+        {
+            "name": "fs-journal",
+            "label": "Flying Squad Journal",
+            "type": "JournalEntry",
+            "path": "packs/fs-journal.db",
+            "entity": "JournalEntry",
+            "module": "flying-squad"
+        },
+        {
+            "name": "fs-items",
+            "label": "Flying Squad Items",
+            "type": "Item",
+            "system": "dnd5e",
+            "path": "packs/fs-items.db",
+            "entity": "Item",
+            "module": "flying-squad"
+        },
+        {
+            "name": "fs-adventure",
+            "label": "Flying Squad Adventure",
+            "type": "Adventure",
+            "system": "dnd5e",
+            "path": "packs/fs-adventure.db",
+            "entity": "Adventure",
+            "module": "flying-squad"
+        }
+    ],
+    "id": "flying-squad",
+    "authors": [
+        {
+            "name": "blk"
+        }
+    ],
+    "minimumCoreVersion": "0.8.0",
+    "compatibleCoreVersion": "9",
+    "compatibility": {
+        "minimum": 9,
+        "verified": 10
+    },
+    "version": "1.1",
+    "url": "https://github.com/bkvam/flying-squad",
+    "manifest": "https://raw.githubusercontent.com/bkvam/flying-squad/main/module.json",
+    "download": "https://github.com/bkvam/flying-squad/archive/refs/tags/v1.0.0-beta.zip"
+}
