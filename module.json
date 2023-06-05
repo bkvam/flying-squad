@@ -60,8 +60,8 @@
         "minimum": 9,
         "verified": 10
     },
-    "version": "1.1",
+    "version": "1.0.2",
     "url": "https://www.alteregosoftware.com/adventures/flying-squad/index.html",
-    "manifest": "https://github.com/bkvam/flying-squad/blob/main/module.json",
-    "download": "https://github.com/bkvam/flying-squad/archive/refs/tags/v1.0.1-beta.zip"
+    "manifest": "https://raw.githubusercontent.com/bkvam/flying-squad/main/module.json",
+    "download": "https://github.com/bkvam/flying-squad/archive/refs/tags/v1.0.2-beta.zip"
 }
