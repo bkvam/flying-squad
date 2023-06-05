@@ -62,6 +62,6 @@
     },
     "version": "1.1",
     "url": "https://www.alteregosoftware.com/adventures/flying-squad/index.html",
-    "manifest": "https://www.alteregosoftware.com/adventures/flying-squad/module.json",
-    "download": "https://www.alteregosoftware.com/adventures/flying-squad/flying-squad-1.zip"
+    "manifest": "https://github.com/bkvam/flying-squad/blob/main/module.json",
+    "download": "https://github.com/bkvam/flying-squad/archive/refs/tags/v1.0.1-beta.zip"
 }
